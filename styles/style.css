@@ -50,3 +50,13 @@ figure, footer, header, hgroup, menu,nav, section, summary, time, mark, audio, v
 .mainwrapper .munuList  {
     background-color: #222;
 }
+.champions{
+    background: linear-gradient(0.25turn, #3f87a6, #96da62, #f69d3c);
+}
+.champions div div ul li,
+.news div ul li{
+    background: transparent;
+}
+.colored {
+    color: lightgreen;
+}
